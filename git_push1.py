@@ -85,4 +85,7 @@ while True:
 
 print('hello world')
 
+def subtract(x,y):
+    return x-y
+
 
