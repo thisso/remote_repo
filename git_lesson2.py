@@ -6,3 +6,5 @@ def greet():
 greet()
 
 print('Outside function')
+
+print('THIS IS A MISTAKE')
