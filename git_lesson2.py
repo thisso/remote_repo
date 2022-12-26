@@ -8,3 +8,9 @@ greet()
 print('Outside function')
 
 print('THIS IS A MISTAKE')
+
+def square(a,b):
+    pass
+
+def divid(a,b):
+    pass
